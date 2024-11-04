@@ -5,7 +5,7 @@
 📚
 👩‍💻
 
-Sou um desenvolvedor mobile júnior com experiência em Kotlin, focado em aprimorar minhas habilidades na construção de aplicativos Android.
+Sou um desenvolvedor mobile com experiência em Kotlin, focado em aprimorar minhas habilidades na construção de aplicativos Android.
 
 Minha motivação é contribuir para equipes de desenvolvimento comprometidas com a qualidade e segurança, sempre disposto a aprender e me adaptar a novas tecnologias e melhores práticas. Acredito que, posso agregar valor ao time e continuar evoluindo como profissional.
 
