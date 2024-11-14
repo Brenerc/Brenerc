@@ -27,7 +27,7 @@ Minha motivação é contribuir para equipes de desenvolvimento comprometidas co
 ![image](https://github.com/user-attachments/assets/f741fb8d-a4f3-4cac-a628-64f2cd197d79)
 ![image](https://github.com/user-attachments/assets/4d66de6d-f125-48f9-8a86-459f6dcd9a46)
 
-==
+===
 
 
 
