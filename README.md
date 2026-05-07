@@ -1,4 +1,4 @@
-## Olá! Bem vindo ao meu repositório 
+## Olá! Bem vindo ao meu repositório.
 
 📱
 💻
