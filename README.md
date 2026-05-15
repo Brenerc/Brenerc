@@ -17,9 +17,8 @@ Minha motivação é contribuir para equipes de desenvolvimento comprometidas co
 ![image](https://github.com/user-attachments/assets/bdfdfbb4-036f-4f36-9d1b-3a482a7eac41)
 ![image](https://github.com/user-attachments/assets/0c68f1b6-4411-4eb8-80d3-49089ba56ae6)
 
---
---------------------------------------------------------------------------------------------------------------------------------------------
----
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ![image](https://github.com/user-attachments/assets/62c96d47-7e51-4e64-ad0e-8cbfbe95ad1a)
 ![image](https://github.com/user-attachments/assets/d0bb50a2-46b7-4e67-bd12-4912258f2fd9)
 ![image](https://github.com/user-attachments/assets/72ed133c-1a55-4192-92e6-1d96dad1fb1f)
