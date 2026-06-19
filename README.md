@@ -7,7 +7,7 @@
 
 Sou um desenvolvedor mobile com experiência em Kotlin, focado em aprimorar minhas habilidades na construção de aplicativos Android.
 
-Minha motivação é contribuir para equipes de desenvolvimento comprometidas com a qualidade e segurança, sempre disposto a aprender e me adaptar a novas tecnologias e melhores práticas. Acredito que, posso agregar valor ao time e continuar evoluindo como profissional.
+
 
 ![image](https://github.com/user-attachments/assets/27eeeac6-3271-45e1-a30a-e5b81b904d09)
 ![image](https://github.com/user-attachments/assets/d091c3c4-1d27-4f6d-b9ba-c9e207133116)
