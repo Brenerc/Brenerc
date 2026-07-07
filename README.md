@@ -27,7 +27,7 @@ Sou um desenvolvedor mobile com experiência em Kotlin, focado em aprimorar minh
 ![image](https://github.com/user-attachments/assets/4d66de6d-f125-48f9-8a86-459f6dcd9a46)
 
 
-------------------------------------------
+-------------------------------------------------------
 
 
 
