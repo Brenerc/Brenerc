@@ -34,7 +34,7 @@ Sou um desenvolvedor mobile com experiência em Kotlin, focado em aprimorar minh
 
 
 
-
+-------------------------------
 
 
 
